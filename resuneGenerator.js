@@ -1,4 +1,3 @@
-const { error } = require('console');
 const temp_script = require('./script.js');
 const fs = require('fs');
 
